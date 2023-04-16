@@ -1,0 +1,6 @@
+Numpy
+Pandas
+cvzone
+face_recognition
+firebase_admin
+datetime
